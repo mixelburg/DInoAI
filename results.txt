@@ -1,0 +1,51 @@
+Date: Sat Sep 12 22:04:54 2020 
+Max score: 863
+
+Date: Sat Sep 12 22:27:51 2020 
+Max score: 662
+
+Date: Sat Sep 12 22:28:33 2020 
+Generations: 0
+Speed: 10
+Max score: 18
+
+Date: Sat Sep 12 22:59:30 2020 
+Generations: 85
+Speed: 10
+Max score: 862
+
+Date: Sat Sep 12 22:59:38 2020 
+Generations: 0
+Speed: 10
+Max score: 35
+
+Date: Sat Sep 12 23:16:43 2020 
+Generations: 100
+Speed: 10
+Max score: 997
+
+Date: Sat Sep 12 23:23:42 2020 
+Generations: 33
+Speed: 10
+Max score: 1396
+
+Date: Sat Sep 12 23:39:28 2020 
+Generations: 100
+Speed: 10
+Max score: 763
+
+Date: Sat Sep 12 23:41:01 2020 
+Generations: 1
+Speed: 10
+Max score: 165
+
+Date: Sun Sep 13 00:02:15 2020 
+Generations: 109
+Speed: 10
+Max score: 729
+
+Date: Mon Sep 14 12:40:58 2020 
+Generations: 7
+Speed: 10
+Max score: 296
+
